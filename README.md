@@ -1,2 +1,2 @@
 # ToDo-Terrminal
-A simple CLI program that creates, reads and deletes tasks for you.
+A simple CLI program in C++ that allows you to create, read, and delete tasks for a ToDo list.
